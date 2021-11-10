@@ -1,4 +1,4 @@
-package com.ubaya.advweek4.Model
+package com.ubaya.advweek4.model
 
 import com.google.gson.annotations.SerializedName
 
